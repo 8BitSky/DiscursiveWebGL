@@ -1,0 +1,16 @@
+{
+"companyName": "8BitSky",
+"productName": "Discursive Strategies",
+"productVersion": "1.0",
+"dataUrl": "DiscursiveStrategies WebGL.data.unityweb",
+"wasmCodeUrl": "DiscursiveStrategies WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "DiscursiveStrategies WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
